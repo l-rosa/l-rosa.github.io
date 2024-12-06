@@ -1,0 +1,4 @@
+.nav-pills>li.active>a, .nav-pills>a.active>a:focus, .nav-pills>li.active>a:hover {
+    color: red !important;
+    background-color: white;
+}
